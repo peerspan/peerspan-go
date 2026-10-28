@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"sort"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/linking"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 type DecMigrationInheritedBan struct {

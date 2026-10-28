@@ -16,7 +16,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Built-in sources (capabilities slice 3): adapters Peerspan ships and the

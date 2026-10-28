@@ -3,8 +3,8 @@ package host
 import (
 	"bytes"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/linking"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 // A local wrapper can be rematerialized by another implementation. Each

@@ -18,9 +18,9 @@ import (
 	"time"
 	"unicode/utf8"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/helper"
-	"github.com/peerspan/peerspan/go/internal/tlsid"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/helper"
+	"github.com/peerspan/peerspan-go/internal/tlsid"
 )
 
 const DecBootstrapALPN = "peerspan-bootstrap/1"

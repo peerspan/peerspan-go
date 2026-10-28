@@ -8,9 +8,9 @@ import (
 	"errors"
 	"net/http"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/membership"
-	"github.com/peerspan/peerspan/go/internal/tlsid"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/tlsid"
 )
 
 func emptyMigrationEvidence() DecMigrationEvidence {

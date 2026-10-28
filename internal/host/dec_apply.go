@@ -12,8 +12,8 @@ import (
 	"errors"
 	"sort"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func decStoredVersion(version uint64) any {

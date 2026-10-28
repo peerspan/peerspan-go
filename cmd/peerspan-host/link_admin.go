@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/host"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type linkAdminSubmission struct {

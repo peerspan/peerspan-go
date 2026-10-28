@@ -16,8 +16,8 @@ import (
 	"strings"
 	"time"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Capabilities: the owner's named, host-local definitions of one use case

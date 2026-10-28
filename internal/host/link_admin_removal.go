@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func (r *RemoveAdmin) UnmarshalJSON(raw []byte) error {

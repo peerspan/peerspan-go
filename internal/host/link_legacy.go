@@ -8,7 +8,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 // Existing local root/SSH commands retain their signed legacy wire statements.

@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"sort"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 type DecPersonView struct {

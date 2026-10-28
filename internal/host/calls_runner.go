@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Running servers: one instance per source, shared by the source's calls and

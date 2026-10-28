@@ -7,7 +7,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func (s *Store) hasLinkSigner(ctx context.Context, network string) (bool, error) {

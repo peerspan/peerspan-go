@@ -11,10 +11,10 @@ import (
 	"os"
 	"strings"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/host"
-	"github.com/peerspan/peerspan/go/internal/membership"
-	"github.com/peerspan/peerspan/go/internal/person"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/person"
 	"github.com/spf13/pflag"
 	"golang.org/x/sys/unix"
 )

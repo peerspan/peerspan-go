@@ -4,7 +4,7 @@ import (
 	"context"
 	"sort"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 type LinkAccessVersions struct {

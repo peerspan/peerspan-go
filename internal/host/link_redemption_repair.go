@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // An unapplied exact outcome may lack a later checkpoint. Its independently

@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"reflect"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 type DecMigrationHostLease struct {

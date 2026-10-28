@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // ProofSeed supplies exact signed bytes for dependency discovery only. A seed

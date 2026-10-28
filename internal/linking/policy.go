@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // AccessHighWater is caller-pinned verified selection, retained after authority loss.

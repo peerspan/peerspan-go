@@ -1,6 +1,6 @@
 package linking
 
-import "github.com/peerspan/peerspan/go/internal/membership"
+import "github.com/peerspan/peerspan-go/internal/membership"
 
 // Historical grants authenticate their original descriptor and internal packet
 // references, without asserting that the old transport pin was ever trusted.

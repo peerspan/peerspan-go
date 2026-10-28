@@ -13,9 +13,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
-	"github.com/peerspan/peerspan/go/internal/relay"
-	"github.com/peerspan/peerspan/go/internal/tlsid"
+	"github.com/peerspan/peerspan-go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/relay"
+	"github.com/peerspan/peerspan-go/internal/tlsid"
 	"github.com/quic-go/quic-go"
 )
 

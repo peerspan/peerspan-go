@@ -9,8 +9,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 func main() {

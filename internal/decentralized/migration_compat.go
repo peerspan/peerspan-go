@@ -3,7 +3,7 @@ package decentralized
 import (
 	"reflect"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // These comparisons concern independently materialized LOCAL compatibility

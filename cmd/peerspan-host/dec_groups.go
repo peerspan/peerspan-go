@@ -7,9 +7,9 @@ import (
 	"errors"
 	"io"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/host"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Group display needs only the pure current read, never a selected signer or

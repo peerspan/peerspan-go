@@ -3,7 +3,7 @@ package linking
 import (
 	"strconv"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type inviteHalf struct {

@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 const decMigrationFields = "format context_id state proposal_base64 source_catalog_base64 source_state_base64 prepared_catalog_base64 initial_root_state_base64 acknowledgments_base64 commit_base64 migration_base64 local_acknowledgment_base64 root_intent_ids local_ack_intent_id approved fenced publication_started"

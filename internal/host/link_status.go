@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 // selectedPolicyAttention uses the caller's coherent status transaction and

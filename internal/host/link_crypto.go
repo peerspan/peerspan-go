@@ -15,7 +15,7 @@ import (
 	"strings"
 
 	"filippo.io/edwards25519"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 const linkPlainLimit = 64 << 10

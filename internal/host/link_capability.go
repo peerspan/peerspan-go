@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // CapabilityClaimCatalog carries exact public proofs, never an unsigned view.

@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // VerifyStoredCatalogAdditions checks newly submitted records against current

@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"sort"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 // Keep the existing source components stable and put each newly completed

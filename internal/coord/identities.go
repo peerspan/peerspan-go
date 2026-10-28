@@ -17,7 +17,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 	"golang.org/x/sys/unix"
 )
 

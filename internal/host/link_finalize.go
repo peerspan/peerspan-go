@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 func selectionLinkReview(proof linking.OwnerOfferEvidence) LinkSelectionReview {

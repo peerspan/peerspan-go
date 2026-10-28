@@ -4,7 +4,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Transport evidence recognizes signatures without selecting or changing a pin.

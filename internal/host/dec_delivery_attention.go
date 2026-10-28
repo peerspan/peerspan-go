@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 func decAddNext(view *DecLinkView, next string) {

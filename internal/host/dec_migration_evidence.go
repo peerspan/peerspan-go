@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"sort"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/linking"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 type DecMigrationEvidence struct {

@@ -3,7 +3,7 @@ package decentralized
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 	"sort"
 )
 

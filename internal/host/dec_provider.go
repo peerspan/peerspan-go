@@ -7,8 +7,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type DecSelectProvider struct {

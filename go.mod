@@ -1,4 +1,4 @@
-module github.com/peerspan/peerspan/go
+module github.com/peerspan/peerspan-go
 
 go 1.26.0
 

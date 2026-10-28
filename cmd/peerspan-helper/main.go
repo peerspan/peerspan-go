@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/peerspan/peerspan/go/internal/helper"
+	"github.com/peerspan/peerspan-go/internal/helper"
 	"github.com/spf13/cobra"
 )
 

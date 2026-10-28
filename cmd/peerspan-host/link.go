@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/host"
-	"github.com/peerspan/peerspan/go/internal/membership"
-	"github.com/peerspan/peerspan/go/internal/person"
+	"github.com/peerspan/peerspan-go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/person"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 	"golang.org/x/sys/unix"

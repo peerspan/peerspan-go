@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/host"
 )
 
 // Attach profiles are session setup directories at

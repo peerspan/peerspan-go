@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 const kindLinkRedemptionIntent = "link_invite_redemption_intent"

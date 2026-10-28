@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Saved outcomes prove what was committed, not what is authorized now. Check

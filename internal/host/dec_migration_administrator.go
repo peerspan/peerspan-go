@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 func (s *Store) decMigrationProjection(ctx context.Context, q dbQuerier, p decPending, offer decSelectedOffer, selection, administrator, final *dec.Packet, now string) (*dec.Projection, error) {

@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"strings"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/helper"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/helper"
 )
 
 // This is the isolated bootstrap participant callback, never the owner-local

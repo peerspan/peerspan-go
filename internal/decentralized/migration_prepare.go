@@ -3,7 +3,7 @@ package decentralized
 import (
 	"encoding/json"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 // PrepareMigrationCeremonyProjection verifies one exact roster-bound prefix

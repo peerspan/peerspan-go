@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 // Expired public preview bookkeeping cannot permanently consume repair capacity.

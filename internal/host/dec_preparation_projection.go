@@ -1,6 +1,6 @@
 package host
 
-import dec "github.com/peerspan/peerspan/go/internal/decentralized"
+import dec "github.com/peerspan/peerspan-go/internal/decentralized"
 
 func decPreparationProjection(d dec.Descriptor, prior []byte, catalog *dec.Catalog, p decPending, owner *dec.Packet, now string) (*dec.Projection, error) {
 	if p.Record.Selection == "-" || p.Record.OwnerID != owner.ID || p.Record.Administrator == "-" && (p.Record.Mode != "renew" || p.Record.Finalization == "-") {

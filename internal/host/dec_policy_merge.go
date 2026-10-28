@@ -3,7 +3,7 @@ package host
 import (
 	"sort"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // The display keys are groups within ONE frozen edit, not full rule keys.

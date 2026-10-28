@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/relay"
+	"github.com/peerspan/peerspan-go/internal/relay"
 	"github.com/quic-go/quic-go"
 )
 

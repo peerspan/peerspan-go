@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // loadRoots resolves only exact signed lineage. Persisted-prefix comparison is

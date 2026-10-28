@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"sort"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/membership"
-	"github.com/peerspan/peerspan/go/internal/tlsid"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/tlsid"
 )
 
 const decPublicationLimit = 20 << 20

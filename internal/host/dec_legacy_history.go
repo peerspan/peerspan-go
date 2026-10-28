@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func (s *Store) publicDecRuntime() bool {

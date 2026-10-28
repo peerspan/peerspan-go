@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 type decErrorDetails struct {

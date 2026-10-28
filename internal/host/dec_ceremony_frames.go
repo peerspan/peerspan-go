@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 // Components divide only between exact original objects. They do not omit an

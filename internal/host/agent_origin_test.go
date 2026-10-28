@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func TestOriginJSONIsStrict(t *testing.T) {

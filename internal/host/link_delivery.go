@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func (s *Store) queueLinkPolicies(ctx context.Context, tx *sql.Tx, n Network, p *linkProjection, members []NetworkMember, prior []linking.PolicyHighWater, stamp string) error {

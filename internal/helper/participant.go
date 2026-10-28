@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/tlsid"
+	"github.com/peerspan/peerspan-go/internal/tlsid"
 	"golang.org/x/sys/unix"
 )
 

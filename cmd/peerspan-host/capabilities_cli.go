@@ -15,10 +15,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/host"
-	"github.com/peerspan/peerspan/go/internal/integration"
-	"github.com/peerspan/peerspan/go/internal/membership"
-	"github.com/peerspan/peerspan/go/internal/person"
+	"github.com/peerspan/peerspan-go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/integration"
+	"github.com/peerspan/peerspan-go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/person"
 	"github.com/spf13/pflag"
 )
 

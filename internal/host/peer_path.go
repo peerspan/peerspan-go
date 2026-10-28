@@ -14,10 +14,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/disco"
-	"github.com/peerspan/peerspan/go/internal/membership"
-	"github.com/peerspan/peerspan/go/internal/relay"
-	"github.com/peerspan/peerspan/go/internal/stun"
+	"github.com/peerspan/peerspan-go/internal/disco"
+	"github.com/peerspan/peerspan-go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/relay"
+	"github.com/peerspan/peerspan-go/internal/stun"
 )
 
 // Path discovery timing from the messaging contract.

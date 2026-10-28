@@ -20,8 +20,8 @@ import (
 	"strings"
 	"time"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/tlsid"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/tlsid"
 )
 
 type decCarrierError struct {

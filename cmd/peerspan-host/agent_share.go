@@ -9,8 +9,8 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/host"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // agentRecipient is GET /v1/agent-lookup's answer for an agent address.

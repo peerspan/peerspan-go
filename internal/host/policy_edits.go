@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Concurrent policy edits (coordination contract, Concurrent edits). Each

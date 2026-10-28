@@ -6,7 +6,7 @@ import (
 	"database/sql"
 	"encoding/base64"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 // Post-adoption evidence is ordinary proof replication. It cannot replace the

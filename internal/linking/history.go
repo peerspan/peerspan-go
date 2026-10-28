@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type bindingPair struct{ person, host string }

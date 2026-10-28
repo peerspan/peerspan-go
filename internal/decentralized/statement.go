@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type Signature struct {

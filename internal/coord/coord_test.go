@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
-	"github.com/peerspan/peerspan/go/internal/tlsid"
+	"github.com/peerspan/peerspan-go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/tlsid"
 )
 
 func key(t *testing.T) ed25519.PrivateKey {

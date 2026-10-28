@@ -3,7 +3,7 @@ package host
 import (
 	"context"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 // A resource name/withdrawal decision cannot treat an unresolved remembered

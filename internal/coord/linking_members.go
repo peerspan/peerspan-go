@@ -5,8 +5,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func (s *Server) linkMembersHTTP(w http.ResponseWriter, r *http.Request) {

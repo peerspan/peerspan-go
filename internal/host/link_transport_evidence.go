@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func linkTransportEvidence(n Network, p *linkProjection) (*membership.Move, []json.RawMessage, error) {

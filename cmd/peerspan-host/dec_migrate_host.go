@@ -10,8 +10,8 @@ import (
 	"os"
 	"reflect"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/host"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/host"
 	"github.com/spf13/pflag"
 )
 

@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"encoding/json"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 type DecRootRetentionView struct {

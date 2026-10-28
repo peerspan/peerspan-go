@@ -1,7 +1,7 @@
 package host
 
 import (
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 // An explicit original person may consent to its first binding of an already

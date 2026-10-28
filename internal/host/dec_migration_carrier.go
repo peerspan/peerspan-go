@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"io"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 const DecMigrationEvidenceFields = "proposal_base64 source_catalog_base64 source_state_base64 prepared_catalog_base64 acknowledgments_base64 commit_base64"

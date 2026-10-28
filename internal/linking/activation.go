@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 const MaxActivation = 512 << 10

@@ -11,7 +11,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Sharing with one agent (capabilities slice 3): an owner names another

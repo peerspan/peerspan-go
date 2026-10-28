@@ -10,8 +10,8 @@ import (
 	"sort"
 	"strings"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type DecMigrationDeviceBans struct {

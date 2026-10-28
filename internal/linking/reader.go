@@ -18,7 +18,7 @@ import (
 	"unicode/utf8"
 
 	"filippo.io/edwards25519"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 const MaxObject = 1 << 20

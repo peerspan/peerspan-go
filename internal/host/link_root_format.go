@@ -3,8 +3,8 @@ package host
 import (
 	"encoding/json"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // The projection has already verified every signature and completed activation.

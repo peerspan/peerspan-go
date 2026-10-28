@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // PersonOutcome reports the person part of a one-command create or join.

@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 const linkFrameFields = "format request_id locator role writer_public_key frame_id ciphertext"

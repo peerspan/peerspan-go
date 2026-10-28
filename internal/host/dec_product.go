@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // productGovernance is an evaluation view, never a signed wire record. DEC

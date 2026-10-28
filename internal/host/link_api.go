@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 func decodeLinkMutation(w http.ResponseWriter, r *http.Request, required string, dst any) bool {

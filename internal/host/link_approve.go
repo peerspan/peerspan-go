@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func (s *Store) openLinkApproval(ctx context.Context, n Network, code string, now time.Time) (result linkPending, err error) {

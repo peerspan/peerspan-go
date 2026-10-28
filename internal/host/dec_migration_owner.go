@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"time"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/linking"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 type decMigrationOwnerFacts struct {

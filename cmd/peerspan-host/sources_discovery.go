@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/BurntSushi/toml"
-	"github.com/peerspan/peerspan/go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/host"
 )
 
 // Discovery of shared MCP servers from a harness's configuration (remote

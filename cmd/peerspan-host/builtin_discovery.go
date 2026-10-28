@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/host"
 )
 
 // Built-in discovery (capabilities slice 3): the CLI finds gh on its PATH,

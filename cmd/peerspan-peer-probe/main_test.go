@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func TestHelpAndInvalidArguments(t *testing.T) {

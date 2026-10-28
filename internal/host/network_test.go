@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/coord"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/coord"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type testNet struct {

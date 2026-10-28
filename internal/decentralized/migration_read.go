@@ -5,7 +5,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func hashString(s string) bool { return identifier(s, "") }

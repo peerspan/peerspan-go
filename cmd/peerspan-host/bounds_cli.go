@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/peerspan/peerspan/go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/host"
 )
 
 // Resource bounds on the owner's CLI: --bound, the guided share's prompt,

@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // BuildStoredAdminRemovalPlan returns exact eligible historical grant tags.

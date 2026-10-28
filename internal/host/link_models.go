@@ -3,7 +3,7 @@ package host
 import (
 	"encoding/json"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 type LinkRequestView struct {

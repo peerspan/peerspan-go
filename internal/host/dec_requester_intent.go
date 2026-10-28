@@ -7,7 +7,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 func requesterDecIntent(kind string) bool { return kind == "selection" || kind == "requester_commit" }

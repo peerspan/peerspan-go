@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 func must[T any](v T, err error) T {

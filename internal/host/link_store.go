@@ -6,8 +6,8 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Schema 19 is shared with Rust. It preserves all preexisting identity,

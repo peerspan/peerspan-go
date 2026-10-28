@@ -6,8 +6,8 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/peerspan/peerspan/go/internal/host"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/host"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type capabilityNetwork struct {

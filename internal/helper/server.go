@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/tlsid"
+	"github.com/peerspan/peerspan-go/internal/tlsid"
 )
 
 var protocols = []string{"peerspan-bootstrap/1", "peerspan-relay/4"}

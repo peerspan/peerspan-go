@@ -10,8 +10,8 @@ import (
 	"sort"
 	"time"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/helper"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/helper"
 )
 
 // Complete publication has no mailbox capability and carries no new consent.

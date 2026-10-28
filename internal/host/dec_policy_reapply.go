@@ -6,8 +6,8 @@ import (
 	"encoding/base64"
 	"encoding/json"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 type DecPolicyReapplyPreview struct {

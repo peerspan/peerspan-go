@@ -7,7 +7,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/linking"
 )
 
 type MigrationEvidence struct {

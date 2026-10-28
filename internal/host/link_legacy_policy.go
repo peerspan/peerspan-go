@@ -5,8 +5,8 @@ import (
 	"encoding/base64"
 	"encoding/json"
 
-	"github.com/peerspan/peerspan/go/internal/linking"
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/linking"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Original-person policy submissions use the same durable exact catalog as

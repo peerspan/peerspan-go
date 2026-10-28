@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"sort"
 
-	dec "github.com/peerspan/peerspan/go/internal/decentralized"
+	dec "github.com/peerspan/peerspan-go/internal/decentralized"
 )
 
 // A signed owner introduction supplies a parsing descriptor, never an adopted

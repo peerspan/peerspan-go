@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/peerspan/peerspan/go/internal/membership"
+	"github.com/peerspan/peerspan-go/internal/membership"
 )
 
 // Signed revocations, departures, and root rotations. The coordinator verifies
